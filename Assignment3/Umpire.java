@@ -1,7 +1,5 @@
 import java.util.Scanner;
 
-import javax.sound.midi.Soundbank;
-
 public class Umpire {
      private int guesserNum;
      private int p1Num;
